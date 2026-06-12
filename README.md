@@ -3,6 +3,7 @@
 Project ini bertujuan untuk menghitung jumlah slot parkir yang terisi secara otomatis menggunakan citra CCTV area parkir dengan membandingkan dua pendekatan berbeda, yaitu:
 - YOLOv11n + SAHI sebagai metode berbasis Deep Learning.
 - GMM + Dilasi sebagai metode Computer Vision konvensional.
+  
 Perbandingan dilakukan untuk mengetahui metode yang paling efektif dalam mendeteksi dan menghitung kendaraan pada area parkir.
 
 # Dataset
